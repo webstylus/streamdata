@@ -1,7 +1,7 @@
 ## Desafio Ignite
 
 Desenvolvido com React-Native e TypeScript
-![alt text](https://github.com/webstylus/streamdata/blob/main/src/assets/images/cover.png?raw=true)
+![alt text](https://github.com/webstylus/streamdata/blob/master/src/assets/images/cover.png?raw=true)
 
 Features
 
