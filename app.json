@@ -2,6 +2,7 @@
   "name": "stream.data",
   "displayName": "stream.data",
   "expo": {
+    "owner": "webstylus",
     "name": "stream.data",
     "scheme": "stream.data",
     "slug": "streamData",
