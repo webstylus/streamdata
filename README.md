@@ -5,7 +5,7 @@ Desenvolvido com React-Native e TypeScript
 
 Features
 
-- Validação dos campos no cadastro
+- Login social com a Twitch
 
 
 Figma do Projeto

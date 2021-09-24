@@ -29,6 +29,7 @@
     },
     "ios": {
       "bundleIdentifier": "com.rocketseat.twitchlogin"
-    }
+    },
+    "description": ""
   }
 }
